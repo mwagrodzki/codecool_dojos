@@ -1,0 +1,10 @@
+.idea/*
+.vscode/*
+__pycache__/*
+*.iml
+
+code-comprehension-python-mwagrodzki/
+debug-dojo-python-mwagrodzki/
+game-statistics-python-mwagrodzki/
+guessing-game-refactor-python-mwagrodzki/
+refactor-dojo-sqrt-python-mwagrodzki/
